@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "missingtrees:azalea_planks"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    " / "
+  ],
+  "result": {
+    "count": 3,
+    "id": "missingtrees:azalea_sign_item"
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "net.alminoris.missingtrees.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin",
+		"SaplingGeneratorMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "missingtrees:block/apple_leaves"
+  }
+}
